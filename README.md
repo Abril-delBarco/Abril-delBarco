@@ -1,4 +1,4 @@
-## # ¡Hola! 👋 Soy Abril
+##  ¡Hola! 👋 Soy Abril
 
 <!--
 **Abril-delBarco/Abril-delBarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
